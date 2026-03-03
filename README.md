@@ -3,7 +3,7 @@
 A premium, minimalist landing page inspired by modern tech aesthetics. This project features **Glassmorphism UI**, responsive layouts, and smooth navigation.
 
 ## 🚀 Demo
-[Add your GitHub Pages link here]
+https://laddtnov.github.io/glassmorphism-product-page
 
 ## ✨ Key Features
 * **Glassmorphism Design:** Uses `backdrop-filter` for high-end visual effects.
