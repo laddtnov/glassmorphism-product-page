@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=github)
+![Tech](https://img.shields.io/badge/Tech-CSS--Grid-blueviolet?style=for-the-badge)
 # CORE Electronics — Product Landing Page
 
 A premium, minimalist landing page inspired by modern tech aesthetics. This project features **Glassmorphism UI**, responsive layouts, and smooth navigation.
@@ -16,6 +18,4 @@ https://laddtnov.github.io/glassmorphism-product-page
 * **CSS3:** Flexbox, Grid, Glassmorphism, Animations.
 * **Typography:** Inter (via Google Fonts).
 
-## 📸 Preview
-![Project Preview](https://placehold.co/600x400/000000/FFFFFF/png?text=Preview+Coming+Soon)
-
+*Created by laddtnov as part of my Frontend Development journey.*
